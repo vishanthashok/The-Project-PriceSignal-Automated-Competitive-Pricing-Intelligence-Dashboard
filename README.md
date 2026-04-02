@@ -48,8 +48,8 @@ Competitive repricing tools (Prisync, Wiser, Competera) cost $300–$2,000/month
 **Prerequisites:** Docker Desktop installed and running.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pricesignal.git
-cd pricesignal
+git clone https://github.com/vishanthashok/The-Project-PriceSignal-Automated-Competitive-Pricing-Intelligence-Dashboard.git
+cd The-Project-PriceSignal-Automated-Competitive-Pricing-Intelligence-Dashboard
 
 cp .env.example .env
 # Optionally add your SLACK_WEBHOOK_URL
